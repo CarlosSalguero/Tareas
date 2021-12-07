@@ -1,3 +1,3 @@
 # IA
 
-[Reflex Agent](https://luisespino.github.io/artificial_intelligence_js/01_reflex_agent.html)
+[Reflex Agent](https://CarlosSalguero.github.io/Tareas/blob/master/01_reflex_agent.html)
